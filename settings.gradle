@@ -12,3 +12,4 @@ plugins {
 
 rootProject.name = 'spring-security'
 include('securityservice')
+include('baseapp')
